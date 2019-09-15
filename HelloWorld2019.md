@@ -3,5 +3,5 @@
 ### &emsp;Very nice to meet you!!
 
 
-#### <font color=#6495ED size=7>Wish you have a good night</font>
-:wink
+<font color=#0099FF>*Wish you have a good night*</font>
+:smile
