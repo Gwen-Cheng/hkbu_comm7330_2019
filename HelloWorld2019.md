@@ -4,4 +4,4 @@
 
 
 <font color=#0099FF>*Wish you have a good night*</font>
-:smile
+
